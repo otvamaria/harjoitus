@@ -3,7 +3,6 @@
 ## Väliotsikko
 
 Tekstiä....
-..* listausta
-..* lisäys listaan
+muokataan tiedostoa..
 - toimiiko tämä
 + entäs tämä
